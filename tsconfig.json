@@ -1,0 +1,29 @@
+{
+	"compilerOptions": {
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"moduleResolution": "node",
+		"module": "ESNext",
+		"target": "ESNext",
+		"lib": [
+			"ESNext"
+		],
+		"inlineSourceMap": true,
+		"incremental": true,
+		"composite": true,
+		"rootDir": "src/",
+		"outDir": "out/",
+		"alwaysStrict": true,
+		"noImplicitThis": true,
+		"forceConsistentCasingInFileNames": true,
+		"newLine": "lf",
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noImplicitOverride": true,
+	},
+	"exclude": [
+		"test",
+		"node_modules",
+		"out",
+	]
+}

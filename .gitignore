@@ -1,0 +1,14 @@
+# Node stuff
+node_modules/
+tmp/
+out/
+dist/
+
+.env
+
+coverage/
+
+*.tsbuildinfo
+
+# MacOS stuff
+.DS_Store
